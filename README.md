@@ -1,6 +1,6 @@
 # Funny Lock Screen Prank
 
-![Lock Screen Prank](lock_screen_prank.png)
+
 
 ## Description
 This Python program creates a simple "Witty Lock Screen Prank" application that can be used to lock the screen of a selected computer in the local network and display a humorous message. The program uses the PyAutoGUI library to simulate keypresses and display a prank message on the locked screen.
